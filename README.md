@@ -1,2 +1,3 @@
 # hydratools
-A best script for Encryption &amp; Decryption
+A best script for Encryption & Decryption
+for Reporing bugs contact me on Telegram : @DarknessEagle
