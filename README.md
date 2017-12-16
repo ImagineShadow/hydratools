@@ -1,3 +1,4 @@
 # hydratools
 A best script for Encryption & Decryption
-for Reporing bugs contact me on Telegram : @DarknessEagle
+for Reporting bugs contact me on Telegram : @DarknessEagle
+or on Gmail : Darknesseagle.pentester@gmail.com
