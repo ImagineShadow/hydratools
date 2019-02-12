@@ -4,6 +4,6 @@
 A useful script for Encryption & Decryption.
 for Reporting bugs contact me on:
 
-**Telegram:** @UnknownBlackHat
-
 **Gmail:** UnknownBlackHat.zeroday@gmail.com
+
+**Telegram:** @UnknownBlackHat
