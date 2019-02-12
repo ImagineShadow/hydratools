@@ -1,4 +1,4 @@
-# hydratools
+# Hydratools
 **Written in python 3** 
 
 A best script for Encryption & Decryption
